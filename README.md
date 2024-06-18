@@ -1,7 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
-**thanx-To-Dev-Minsoo/thanx-To-Dev-Minsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PradaRio/PradaRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+####  :wave: Welcome my github profile !
+
+🔭 Education
+
+🌱 Department of Electronic Engineering [2019.03 ~ 2025.02]
+
+📫 : minsu_510@naver.com
+
+####  :clipboard: My Tech Stack
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-6DB33F?style=for-the-badge&logo=AndroidStudio&logoColor=white">
