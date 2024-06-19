@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 ## My Tech Stack🧩
 
   - Programming Languages : ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    <!--![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   - Backend Development : ![](	https://img.shields.io/badge/IntelliJ-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
   - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
 <br>
+
+ <!--![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
