@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####  :wave: Welcome my github profile !
+##  :wave: Welcome my github profile !
 
 🔭 Education
 
