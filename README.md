@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 : minsu_510@naver.com
 
-## My Tech Stack🧩
+## My Tech Stack 🧩
 
   - Programming Languages : ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   - Backend Development : ![](	https://img.shields.io/badge/IntelliJIDEA-7b68ee?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
