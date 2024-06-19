@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 📫 : minsu_510@naver.com
 
-## 개발 스택 🧩
+## My Tech Stack🧩
 
-  - Programming Languages : ![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  - Backend Development : ![](	https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+  - Programming Languages : ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    <!--![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  - Backend Development : ![](	https://img.shields.io/badge/IntelliJ-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-  - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![](	https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-  - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon+AWS&logoColor=white)
+  - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
 <br>
