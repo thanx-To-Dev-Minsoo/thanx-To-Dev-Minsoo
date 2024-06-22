@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Welcome my github profile !
 -->
 
-##  :wave: Welcome my github profile !
+##  :wave: 안녕하세요! 개발민수입니다!
 
 🔭 Education
 
