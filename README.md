@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Welcome my github profile !
 -->
 
-##  :wave: 안녕하세요! 개발민수입니다!
+##  :wave: Welcome my github profile !
 
 🔭 Education
 
