@@ -31,7 +31,6 @@ Welcome my github profile !
   - Framework : ![](	https://img.shields.io/badge/Vue.js-66cdaa?style=for-the-badge&logo=vue.js&logoColor=white)
   - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <br>
-
  <!--![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
  <!--- Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)-->
  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanx-To-Dev-Minsoo)](https://github.com/anuraghazra/github-readme-stats)-->
