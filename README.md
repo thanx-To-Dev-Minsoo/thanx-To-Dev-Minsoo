@@ -27,7 +27,7 @@ Welcome my github profile !
 ## My Tech Stack 🧩
 
   - Programming Languages : ![](	https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white) ![](	https://img.shields.io/badge/JavaScript-FFDB58?style=for-the-badge&logo=javascript&logoColor=white)
-  - Development Tools : ![](	https://img.shields.io/badge/IntelliJIDEA-#000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) ![](	https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![](	https://img.shields.io/badge/VisualStudioCode-3498db?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+  - Development Tools : ![](	https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) ![](	https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![](	https://img.shields.io/badge/VisualStudioCode-3498db?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   - Framework : ![](	https://img.shields.io/badge/Vue.js-66cdaa?style=for-the-badge&logo=vue.js&logoColor=white)
   - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <br>
